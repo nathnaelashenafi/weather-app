@@ -14,8 +14,6 @@ A clean, responsive weather application built with React and Vite. Search for an
 
 ## Screenshots
 
-Add your preview image here:
-
 ![Weather App Preview](src/assets/weatherapp.png)
 
 ## Tech Stack
