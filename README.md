@@ -30,7 +30,7 @@ A clean, responsive weather application built with React and Vite. Search for an
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nathnaelashenafi/weather-app
 cd Weather
 ```
 
